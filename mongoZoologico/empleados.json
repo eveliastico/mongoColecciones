@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "62834c1db10ec021991a1b1f"
+  },
+  "nombre": "Jorge",
+  "telefono": "6681965148",
+  "direccion": {
+    "calle": "calle 1",
+    "colonia": "colonia 1",
+    "numCasa": "001"
+  },
+  "puesto": "Guia",
+  "itinerarios": []
+},{
+  "_id": {
+    "$oid": "62835028b10ec021991a1c45"
+  },
+  "nombre": "Miguel",
+  "telefono": "66819612348",
+  "direccion": {
+    "calle": "calle 2",
+    "colonia": "colonia 2",
+    "numCasa": "002"
+  },
+  "puesto": "Cuidador",
+  "itinerarios": [
+    {}
+  ]
+},{
+  "_id": {
+    "$oid": "6283f287b10ec021991a1f39"
+  },
+  "nombre": "Christian",
+  "telefono": "66819612348",
+  "direccion": {
+    "calle": "calle 3",
+    "colonia": "colonia 3",
+    "numCasa": "003"
+  },
+  "puesto": "Guia",
+  "itinerarios": [
+    {}
+  ]
+},{
+  "_id": {
+    "$oid": "6285cabab10ec021991a6bd6"
+  },
+  "nombre": "Alma",
+  "telefono": "6681965148",
+  "direccion": {
+    "calle": "calle 1",
+    "colonia": "colonia 1",
+    "numCasa": "001"
+  },
+  "puesto": "Cuidador",
+  "itinerarios": []
+},{
+  "_id": {
+    "$oid": "6285cac4b10ec021991a6bdf"
+  },
+  "nombre": "Luis",
+  "telefono": "6681965148",
+  "direccion": {
+    "calle": "calle 1",
+    "colonia": "colonia 1",
+    "numCasa": "001"
+  },
+  "puesto": "Cuidador",
+  "itinerarios": []
+}]

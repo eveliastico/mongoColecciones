@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "627ff7a8b10ec0219919fbe3"
+  },
+  "nombre": "Zona 1",
+  "extension": 105.82
+},{
+  "_id": {
+    "$oid": "627ff7e6b10ec0219919fbf1"
+  },
+  "nombre": "Zona 2",
+  "extension": 150
+},{
+  "_id": {
+    "$oid": "627ff7eeb10ec0219919fbf6"
+  },
+  "nombre": "Zona 3",
+  "extension": 85
+}]

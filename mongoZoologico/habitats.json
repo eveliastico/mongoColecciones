@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "628677892560960681d7a7f1"
+  },
+  "clima": "Cálido ",
+  "continente": "África",
+  "nombre": "Leones",
+  "tipoVegetacion": "Pastizal"
+},{
+  "_id": {
+    "$oid": "6286779c2560960681d7a7f2"
+  },
+  "clima": "Cálido ",
+  "continente": "Asia",
+  "nombre": "Changos",
+  "tipoVegetacion": "Selva"
+},{
+  "_id": {
+    "$oid": "628677a52560960681d7a7f3"
+  },
+  "clima": "Cálido ",
+  "continente": "Europa",
+  "nombre": "Tigres",
+  "tipoVegetacion": "Pastizal"
+}]

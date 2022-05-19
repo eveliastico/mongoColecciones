@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "628677572560960681d7a7e9"
+  },
+  "duracion": 2.299999952316284,
+  "idsGuias": [
+    {
+      "$oid": "62834c1db10ec021991a1b1f"
+    }
+  ],
+  "longitud": 121.5,
+  "nombreItinerario": "Itinerario 1",
+  "numEspecies": 20,
+  "numVisitantes": 0,
+  "zonas": [
+    "Zona 1",
+    "Zona 3"
+  ]
+},{
+  "_id": {
+    "$oid": "628677732560960681d7a7ea"
+  },
+  "duracion": 2,
+  "idsGuias": [
+    {
+      "$oid": "62834c1db10ec021991a1b1f"
+    },
+    {
+      "$oid": "6283f287b10ec021991a1f39"
+    }
+  ],
+  "longitud": 157.8000030517578,
+  "nombreItinerario": "Itinerario 2",
+  "numEspecies": 21,
+  "numVisitantes": 0,
+  "zonas": [
+    "Zona 2",
+    "Zona 1",
+    "Zona 3"
+  ]
+}]

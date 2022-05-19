@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "62867866d8efae0df55e4c3c"
+  },
+  "descripcion": "Es como un un lemur pero no, es un chango.",
+  "idsCuidadores": [
+    {
+      "$oid": "6285cabab10ec021991a6bd6"
+    },
+    {
+      "$oid": "6285cac4b10ec021991a6bdf"
+    }
+  ],
+  "nombreCientifico": "Changuitus",
+  "nombreHabitats": [
+    "Changos"
+  ],
+  "nombreVulgar": "Changuito"
+}]
